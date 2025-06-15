@@ -30,7 +30,7 @@ The Air Quality Index (AQI) is crucial for monitoring environmental and public h
 ### ⚙️ Preprocessing
 
 - Handled missing data with **mean imputation**  
-- Addressed skewed distributions with **log/sqrt/Yeo-Johnson transforms**  
+- Addressed skewed distributions with **log/sqrt transforms**  
 - Performed **feature scaling using Min-Max normalization**  
 - Applied **correlation-based feature selection**
 
